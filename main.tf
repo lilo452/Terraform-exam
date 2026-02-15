@@ -1,8 +1,8 @@
-(* provider "aws" {
+provider "aws" {
   region = "eu-west-1" 
-  access_key = "AKIAUOFI5CEOSGFWQTFW"
-  secret_key = "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"
-} *)
+  access_key = ""
+  secret_key = ""
+}
 
 module "my_infrastructure" {
 
